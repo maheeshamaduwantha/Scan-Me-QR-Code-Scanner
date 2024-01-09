@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scan Me</string>
+    <string name="title">title</string>
+    <string name="link">link</string>
+    <string name="visit_link">Visit_Link</string>
+    <string name="Link">Link\n</string>
+    <string name="Title">Title</string>
+</resources>
